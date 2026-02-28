@@ -83,3 +83,32 @@ Process (תהליכים): הנהלים שקובעים איך עובדים.
 Technology (טכנולוגיה): הכלים והתוכנות לאבטחה.
 
 <img width="1728" height="393" alt="image" src="https://github.com/user-attachments/assets/27c39c4e-6315-4176-9033-9ee6292af40d" />
+
+ה-W,משמעות,דוגמה מהטקסט
+What?,מה קרה?,קובץ זדוני זוהה ברשת.
+When?,מתי זה קרה?,ב-5 ביוני בשעה 13:20.
+Where?,איפה זה קרה?,במחשב של GEORGE PC.
+Who?,מי היה מעורב?,המשתמש ג'ורג'.
+Why?,למה זה קרה?,כי המשתמש ניסה להוריד תוכנה פיראטית.
+
+<img width="1732" height="378" alt="image" src="https://github.com/user-attachments/assets/0f679997-d8f3-434f-bd62-7fa04c7f66a8" />
+
+SOC: Technology (טכנולוגיה). המטרה של הטכנולוגיה היא לרכז את כל המידע העצום שזורם ברשת הארגונית למקום אחד, ולצמצם את העבודה הידנית של האנליסטים באמצעות אוטומציה.
+
+הנה הכלים המרכזיים שהוזכרו:
+
+🛠️ כלי האבטחה המרכזיים ב-SOC
+SIEM (Security Information and Event Management): הכלי הנפוץ ביותר ב-SOC. הוא אוסף לוגים (רישומי פעילות) מכל מכשירי הרשת, מצליב ביניהם (Correlation) ומקפיץ התראות כשמזוהה פעילות חשודה לפי חוקים שהוגדרו מראש.
+
+חשוב לזכור: ה-SIEM מתמקד ביכולות זיהוי (Detection) בלבד.
+
+EDR (Endpoint Detection and Response): כלי שמותקן ישירות על המחשבים והשרתים (Endpoints). הוא נותן נראות בזמן אמת וגם היסטורית על מה שקורה במכשיר, ומאפשר לבצע פעולות תגובה מהירות בלחיצת כפתור.
+
+Firewall (חומת אש): משמש כחיץ בין הרשת הפנימית לאינטרנט החיצוני. הוא מנטר תעבורה נכנסת ויוצאת ומסנן תעבורה לא מורשית או חשודה לפני שהיא חודרת לרשת.
+
+<img width="953" height="858" alt="image" src="https://github.com/user-attachments/assets/fa3d1ed1-2513-4151-83f4-0cf9aa04ee6f" />
+
+
+<img width="1887" height="821" alt="image" src="https://github.com/user-attachments/assets/406d8ce0-0cd2-430c-8a46-c1188157de8e" />
+
+
